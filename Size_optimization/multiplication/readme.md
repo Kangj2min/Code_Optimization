@@ -13,3 +13,6 @@ In theses multiplier code, you could check what is diffrent between two codes.
 To multiply, use 4bit left shift in multiplier(better) code.
 
 And subtract from the input value, 15 Multiplier is completed.
+
+##References
+(https://verilogmaster.com/2024/03/12/p14-resource-optimization-technique/)
