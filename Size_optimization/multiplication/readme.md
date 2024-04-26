@@ -14,5 +14,5 @@ To multiply, use 4bit left shift in multiplier(better) code.
 
 And subtract from the input value, 15 Multiplier is completed.
 
-##References
+## References
 (https://verilogmaster.com/2024/03/12/p14-resource-optimization-technique/)
