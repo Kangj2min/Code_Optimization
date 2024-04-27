@@ -16,3 +16,7 @@ Generally, synthesis is done on a module-by-module. when top module is synthesis
 
 TIP
 - if you possible, don't use glue Logic.
+
+## 3.v
+
+Synthesis Tool try to optimize speed of synthesis for Non-Critical Path since it shouldn't notice what has Critical Path or not. if you have Logic both having Critical Path and Non-Critical Path, you need to separate when you objectify logic.   
